@@ -3,11 +3,11 @@
 ## Estructura
 ```
 app.py
-data_loader.py
-utils.py
-lstm_module.py
-prophet_module.py
-stats_module
+core/data_loader.py
+core/utils.py
+core/lstm_module.py
+core/prophet_module.py
+core/stats_module
 precios_aceite_clean.csv
 requirements.txt
 Dockerfile.aceite
