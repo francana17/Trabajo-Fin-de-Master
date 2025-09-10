@@ -2,7 +2,7 @@
 
 ## Estructura
 ```
-app_aceite.py
+app.py
 data_loader.py
 utils.py
 lstm_module.py
