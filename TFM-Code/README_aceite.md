@@ -7,7 +7,7 @@ model_building_LSTM.py
 model_building_prophet.py
 model_building_Forecast.py
 precios_aceite_clean.csv
-requirements_aceite.txt
+requirements.txt
 Dockerfile.aceite
 ```
 
