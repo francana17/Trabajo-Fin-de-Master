@@ -1,0 +1,11 @@
+streamlit==1.37
+pandas
+numpy==1.26
+scikit-learn==1.2
+plotly
+prophet==1.1.5
+cmdstanpy
+holidays
+tensorflow-cpu==2.15.1
+keras==2.15
+statsmodels
