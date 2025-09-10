@@ -1,4 +1,4 @@
-# TFM Aceite de Oliva — App Streamlit (reutilizando tu TFG)
+# TFM Aceite de Oliva — App Streamlit
 
 ## Estructura
 ```
